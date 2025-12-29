@@ -38,7 +38,7 @@ export CUDA_HOME=<your_cuda_path>
 - [Download DeepCrack Dataset](https://www.kaggle.com/datasets/cvvlearner/a-crack-dataset)
 - [Download Khanh11k Dataset](https://github.com/khanhha/crack_segmentation/tree/master)
 - [Download Masonry Dataset](https://www.kaggle.com/datasets/mexwell/crack-detection-in-images-of-bricks-and-masonry/data)
--  You may download images and annoations from: [Figshare]()
+-  You may download images and annoations from: [Figshare](https://doi.org/10.6084/m9.figshare.30963293)
 - and then organize the data as:
 ```
 datasets/
