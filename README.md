@@ -130,7 +130,7 @@ python val_mm.py --cfg configs/nyu_rgbd.yaml
 ![Seg-1.png](Seg-1.png)
 
 ## Citation
-Li, Huadong; Zhang, Xiao'ou; Wang, Haoyu; Yi, Xiaoyu; Li, Xiang; Liu, Mengmeng; et al. (2025). IR-ADS: Invariant Representation and Anomaly Separation for Robust Building Surface Defect Detection. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30963293.v2
+Li, Huadong; Zhang, Xiao'ou; Wang, Haoyu; Yi, Xiaoyu; Li, Xiang; Liu, Mengmeng; et al. (2025). IR-ADS: Invariant Representation and Anomaly Separation for Robust Building Surface Defect Detection. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30963293
 
 ## License
 
